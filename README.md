@@ -58,7 +58,7 @@ Here is What you need to konw ->
 
 # USB mapping
 
-    [see rursache's link is bottom here](https://github.com/rursache/Hackintosh-13900k-Z690-AORUS-ELITE-AX-DDR5-AMD-6900XT)  
+[see rursache's link is bottom here](https://github.com/rursache/Hackintosh-13900k-Z690-AORUS-ELITE-AX-DDR5-AMD-6900XT)  
 
 # Kexts
 
@@ -79,7 +79,7 @@ Here is What you need to konw ->
 
 # Thanks
 
-    [rursache](https://github.com/rursache/Hackintosh-13900k-Z690-AORUS-ELITE-AX-DDR5-AMD-6900XT)  
+[rursache](https://github.com/rursache/Hackintosh-13900k-Z690-AORUS-ELITE-AX-DDR5-AMD-6900XT)  
 
 # Other
 
