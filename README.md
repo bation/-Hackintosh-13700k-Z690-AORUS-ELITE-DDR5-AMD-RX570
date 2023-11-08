@@ -13,7 +13,8 @@ Hardware:
             Thermalright  FC140
             8x Thermalright Fans around the case for airflow
     Motherboard: Gigabyte Z690 AORUS ELITE DDR5
-    GPU: AMD Radeon RX570（from rx580 2048sp downgrade vbios）
+    GPU: RX6950XT @release v0.2
+	GPU: R570 @release v0.1
     WiFi/Bluetooth: Fenvi T919 (BCM94360[CD])
     Ethernet: Realtek RTL8125B PCI Express 2.5 Gigabit Ethernet
     RAM: 4 x 16GB @ 4800 MHz DDR5
